@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Chandrashekhar928/Chandrashekhar928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Chandrashekhar928/Chandrashekhar928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 ![Metrics](https://metrics.lecoq.io/Chandrashekhar928?template=terminal&config.timezone=Asia%2FCalcutta)
