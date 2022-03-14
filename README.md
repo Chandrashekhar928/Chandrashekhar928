@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m Chandrashekhar, computer science undergraduate from BMSCE
+-  I’m Chandrashekhar, computer science undergraduate from BMSCE
 
 
 ![Metrics](https://metrics.lecoq.io/Chandrashekhar928?template=terminal&config.timezone=Asia%2FCalcutta)
